@@ -8,6 +8,7 @@ function App() {
     <>
       <NavBar />
       <Routes>
+        <Route path="/" element={<h1>HOME PAGE</h1>} />
         <Route path="/sign-up" element={<SignUpForm />} />
       </Routes>
     </>
