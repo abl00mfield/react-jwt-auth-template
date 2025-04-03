@@ -64,7 +64,7 @@ const SignUpForm = () => {
           />
         </div>
         <div>
-          <label htmlFor="confirm">Confirm Password: </label>
+          <label htmlFor="passwordConf">Confirm Password: </label>
           <input
             type="password"
             id="passwordConf"
